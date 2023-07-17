@@ -201,6 +201,10 @@ aside {
   padding: 0px 24px;
 }
 
+#cart-return {
+  cursor: pointer;
+}
+
 .title-container {
   display: flex;
 }
